@@ -1,0 +1,5 @@
+In Python we have simple English-like Syntax
+In Python you can create functions
+In Python you can create classes easily
+In Python we can use dictionaries to store key-value pairs
+I like Python
